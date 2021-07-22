@@ -6,7 +6,7 @@ Speed-Test 1.2
 
 This Programm write by [Mr.nope](https://github.com/mrprogrammer2938)
 
-![Speed-Test-Logo](https://user-images.githubusercontent.com/78996423/126709014-40c2c137-d72a-4da5-9e73-607eb41f3a1f.png)
+[![Speed-Test-Logo](https://user-images.githubusercontent.com/78996423/126709014-40c2c137-d72a-4da5-9e73-607eb41f3a1f.png)](https://github.com/mrprogrammer2938/Speed-Test)
 
 
 **Installing**
